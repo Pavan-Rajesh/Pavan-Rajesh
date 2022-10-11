@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Pavan-Rajesh/Pavan-Rajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# pavan here
 
-Here are some ideas to get you started:
+  <br>
+  
+- 🌱 I’m currently learning backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about front end and suggestions for the design of a web page
+
+- 📫 How to reach me: mail me at pavanrajesh365@gmail.com
+
+<br>
+
+### want to contribute to your project dm me 
+
+
+# information will be updated sooner 
