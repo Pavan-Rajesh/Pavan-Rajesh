@@ -4,7 +4,7 @@
 
   <br>
   
-- 🌱 I’m currently learning webdevelopement
+- 🌱 I’m currently learning webd-evelopment
 
 - 💬 Ask me about front end and suggestions for the design of a web page
 
