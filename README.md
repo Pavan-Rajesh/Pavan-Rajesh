@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning web-development
 
-- 💬 Ask me about front end and suggestions for designginig web page
+- 💬 Ask me about front end and suggestions for designing web page
 
 - 📫 How to reach me: mail me at pavanrajesh365@gmail.com
 
