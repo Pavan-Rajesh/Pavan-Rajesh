@@ -8,7 +8,7 @@
 - 💬 Much interested in learning web development
 
 - 📫 How to reach me: mail me at pavanrajesh365@gmail.com
-
+- currently developing project based on geographical information system using nextjs,trpc and supabase
 <br>
 
 ### want to contribute to your project dm me 
