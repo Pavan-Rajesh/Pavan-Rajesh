@@ -3,8 +3,7 @@
 # pavan here
 
   <br>
-  
-- 🌱 I’m currently learning web-development
+
 
 - 💬 Much interested in learning web development
 
